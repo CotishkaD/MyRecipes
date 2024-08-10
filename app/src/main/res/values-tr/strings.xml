@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Tariflerim</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Merhaba boş fragment</string>
+
+    <!--Name app -->
+    <string name="name_app">Tariflerim</string>
+
+    <!-- Categories names-->
+    <string name="soups">Çorbalar</string>
+    <string name="salads">Salatalar</string>
+    <string name="mains">Yemekler</string>
+    <string name="desserts">Tatlılar</string>
+    <string name="sauce">Soslar</string>
+    <string name="jams">Reçeller</string>
+    <string name="pickles">Turşular</string>
+    <string name="bake">Fırın</string>
+    <string name="drinks">İçecekler</string>
+
+    <!-- Create Fragment / Edit Fragment-->
+    <string name="top_bar_name_create">Oluştur</string>
+    <string name="top_bar_name_edit">Kaydet</string>
+
+    <string name="name_field">Yemeğin Adı</string>
+    <string name="name_field_hint">Yemeğin adını girin</string>
+
+    <string name="ingredients_field">Malzemeler</string>
+    <string name="ingredients_field_end">(Her biri yeni bir satıra)</string>
+    <string name="ingredients_field_hint">Malzemeleri girin</string>
+
+    <string name="description_field">Açıklama</string>
+    <string name="description_field_hint">Bir açıklama girin</string>
+
+    <string name="create">Oluştur</string>
+    <string name="edit">Kaydet</string>
+
+    <!-- Item Fragment -->
+    <string name="ingredients_item_fragment">Malzemeler</string>
+    <string name="description_item_fragment">Açıklama</string>
+
+    <!-- Delete window -->
+    <string name="delete_text">Silmek istediğinizden emin misiniz?</string>
+
+</resources>

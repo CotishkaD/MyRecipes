@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">My Recipes</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--Name app -->
+    <string name="name_app">My Recipes</string>
+
+    <!-- Categories names-->
+    <string name="soups">Soups</string>
+    <string name="salads">Salads</string>
+    <string name="mains">Mains</string>
+    <string name="desserts">Deserts</string>
+    <string name="sauce">Sauce</string>
+    <string name="jams">Jams</string>
+    <string name="pickles">Pickles</string>
+    <string name="bake">Bake</string>
+    <string name="drinks">Drinks</string>
+
+    <!-- Create Fragment / Edit Fragment-->
+    <string name="top_bar_name_create">Create</string>
+    <string name="top_bar_name_edit">Edit</string>
+
+    <string name="name_field">Name of the dish</string>
+    <string name="name_field_hint">Enter name of the dish</string>
+
+    <string name="ingredients_field">Ingredients</string>
+    <string name="ingredients_field_end">(Each on a new line)</string>
+    <string name="ingredients_field_hint">Enter the ingredients</string>
+
+    <string name="description_field">Description</string>
+    <string name="description_field_hint">Enter a description</string>
+
+    <string name="create">Create</string>
+    <string name="edit">Save</string>
+
+    <!-- Item Fragment -->
+    <string name="ingredients_item_fragment">Ingredients</string>
+    <string name="description_item_fragment">Description</string>
+
+    <!-- Delete window -->
+    <string name="delete_text">Are you sure to delete?</string>
+
+</resources>

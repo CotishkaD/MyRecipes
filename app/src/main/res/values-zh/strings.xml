@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">我的食谱</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">你好，空白片段</string>
+
+    <!--Name app -->
+    <string name="name_app">我的食谱</string>
+
+    <!-- Categories names-->
+    <string name="soups">汤</string>
+    <string name="salads">沙拉</string>
+    <string name="mains">主菜</string>
+    <string name="desserts">甜点</string>
+    <string name="sauce">酱汁</string>
+    <string name="jams">果酱</string>
+    <string name="pickles">泡菜</string>
+    <string name="bake">烘焙</string>
+    <string name="drinks">饮料</string>
+
+    <!-- Create Fragment / Edit Fragment-->
+    <string name="top_bar_name_create">创建</string>
+    <string name="top_bar_name_edit">编辑</string>
+
+    <string name="name_field">菜名</string>
+    <string name="name_field_hint">请输入菜名</string>
+
+    <string name="ingredients_field">配料</string>
+    <string name="ingredients_field_end">（每行一个）</string>
+    <string name="ingredients_field_hint">输入配料</string>
+
+    <string name="description_field">描述</string>
+    <string name="description_field_hint">输入描述</string>
+
+    <string name="create">创建</string>
+    <string name="edit">保存</string>
+
+    <!-- Item Fragment -->
+    <string name="ingredients_item_fragment">配料</string>
+    <string name="description_item_fragment">描述</string>
+
+    <!-- Delete window -->
+    <string name="delete_text">您确定要删除吗？</string>
+
+</resources>

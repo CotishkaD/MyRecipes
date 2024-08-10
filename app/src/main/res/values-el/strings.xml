@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Οι Συνταγές Μου</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Γειά σου κενό fragment</string>
+
+    <!--Name app -->
+    <string name="name_app">Οι Συνταγές Μου</string>
+
+    <!-- Categories names-->
+    <string name="soups">Σούπες</string>
+    <string name="salads">Σαλάτες</string>
+    <string name="mains">Πιάτα</string>
+    <string name="desserts">Επιδόρπια</string>
+    <string name="sauce">Σάλτσες</string>
+    <string name="jams">Μαρμελάδες</string>
+    <string name="pickles">Πίκλες</string>
+    <string name="bake">Ψήσιμο</string>
+    <string name="drinks">Ποτά</string>
+
+    <!-- Create Fragment / Edit Fragment-->
+    <string name="top_bar_name_create">Δημιουργία</string>
+    <string name="top_bar_name_edit">Αποθήκευση</string>
+
+    <string name="name_field">Όνομα πιάτου</string>
+    <string name="name_field_hint">Εισάγετε το όνομα του πιάτου</string>
+
+    <string name="ingredients_field">Υλικά</string>
+    <string name="ingredients_field_end">(Κάθε ένα σε νέα γραμμή)</string>
+    <string name="ingredients_field_hint">Εισάγετε τα υλικά</string>
+
+    <string name="description_field">Περιγραφή</string>
+    <string name="description_field_hint">Εισάγετε μια περιγραφή</string>
+
+    <string name="create">Δημιουργία</string>
+    <string name="edit">Αποθήκευση</string>
+
+    <!-- Item Fragment -->
+    <string name="ingredients_item_fragment">Υλικά</string>
+    <string name="description_item_fragment">Περιγραφή</string>
+
+    <!-- Delete window -->
+    <string name="delete_text">Είστε σίγουροι ότι θέλετε να διαγράψετε;</string>
+
+</resources>

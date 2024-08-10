@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Mis Recetas</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hola fragmento vacío</string>
+
+    <!--Name app -->
+    <string name="name_app">Mis Recetas</string>
+
+    <!-- Categories names-->
+    <string name="soups">Sopas</string>
+    <string name="salads">Ensaladas</string>
+    <string name="mains">Platos</string>
+    <string name="desserts">Postres</string>
+    <string name="sauce">Salsas</string>
+    <string name="jams">Mermeladas</string>
+    <string name="pickles">Encurtidos</string>
+    <string name="bake">Horneado</string>
+    <string name="drinks">Bebidas</string>
+
+    <!-- Create Fragment / Edit Fragment-->
+    <string name="top_bar_name_create">Crear</string>
+    <string name="top_bar_name_edit">Guardar</string>
+
+    <string name="name_field">Nombre del plato</string>
+    <string name="name_field_hint">Ingresa el nombre del plato</string>
+
+    <string name="ingredients_field">Ingredientes</string>
+    <string name="ingredients_field_end">(Cada uno en una línea nueva)</string>
+    <string name="ingredients_field_hint">Ingresa los ingredientes</string>
+
+    <string name="description_field">Descripción</string>
+    <string name="description_field_hint">Ingresa una descripción</string>
+
+    <string name="create">Crear</string>
+    <string name="edit">Guardar</string>
+
+    <!-- Item Fragment -->
+    <string name="ingredients_item_fragment">Ingredientes</string>
+    <string name="description_item_fragment">Descripción</string>
+
+    <!-- Delete window -->
+    <string name="delete_text">¿Estás seguro de que deseas eliminar?</string>
+
+</resources>

@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">マイレシピ</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">こんにちは空のフラグメント</string>
+
+    <!--Name app -->
+    <string name="name_app">マイレシピ</string>
+
+    <!-- Categories names-->
+    <string name="soups">スープ</string>
+    <string name="salads">サラダ</string>
+    <string name="mains">料理</string>
+    <string name="desserts">デザート</string>
+    <string name="sauce">ソース</string>
+    <string name="jams">ジャム</string>
+    <string name="pickles">ピクルス</string>
+    <string name="bake">焼き物</string>
+    <string name="drinks">飲み物</string>
+
+    <!-- Create Fragment / Edit Fragment-->
+    <string name="top_bar_name_create">作成</string>
+    <string name="top_bar_name_edit">保存</string>
+
+    <string name="name_field">料理名</string>
+    <string name="name_field_hint">料理名を入力してください</string>
+
+    <string name="ingredients_field">材料</string>
+    <string name="ingredients_field_end">(各行に1つずつ)</string>
+    <string name="ingredients_field_hint">材料を入力してください</string>
+
+    <string name="description_field">説明</string>
+    <string name="description_field_hint">説明を入力してください</string>
+
+    <string name="create">作成</string>
+    <string name="edit">保存</string>
+
+    <!-- Item Fragment -->
+    <string name="ingredients_item_fragment">材料</string>
+    <string name="description_item_fragment">説明</string>
+
+    <!-- Delete window -->
+    <string name="delete_text">本当に削除してもよろしいですか？</string>
+
+</resources>

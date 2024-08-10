@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Мои Рецепты</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Привет пустой фрагмент</string>
+
+    <!--Name app -->
+    <string name="name_app">Мои Рецепты</string>
+
+    <!-- Categories names-->
+    <string name="soups">Супы</string>
+    <string name="salads">Салаты</string>
+    <string name="mains">Горячее</string>
+    <string name="desserts">Десерты</string>
+    <string name="sauce">Соусы</string>
+    <string name="jams">Варенья</string>
+    <string name="pickles">Соленья</string>
+    <string name="bake">Выпечка</string>
+    <string name="drinks">Напитки</string>
+
+    <!-- Create Fragment / Edit Fragment-->
+    <string name="top_bar_name_create">Создать</string>
+    <string name="top_bar_name_edit">Редактировать</string>
+
+    <string name="name_field">Название блюда</string>
+    <string name="name_field_hint">Введите название блюда</string>
+
+    <string name="ingredients_field">Ингредиенты</string>
+    <string name="ingredients_field_end">(Каждый на новой строке)</string>
+    <string name="ingredients_field_hint">Введите ингредиенты</string>
+
+    <string name="description_field">Описание</string>
+    <string name="description_field_hint">Введите описание</string>
+
+    <string name="create">Создать</string>
+    <string name="edit">Сохранить</string>
+
+    <!-- Item Fragment -->
+    <string name="ingredients_item_fragment">Ингредиенты</string>
+    <string name="description_item_fragment">Описание</string>
+
+    <!-- Delete window -->
+    <string name="delete_text">Вы уверены, что хотите удалить?</string>
+
+</resources>
